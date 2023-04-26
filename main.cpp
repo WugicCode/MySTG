@@ -1,6 +1,6 @@
 #include<cstdio>
 
-#include"STGEngine.h"
+#include"MySTG.h"
 
 
 int main()

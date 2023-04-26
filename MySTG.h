@@ -1,5 +1,5 @@
-#ifndef STGENGINE_H
-#define STGENGINE_H
+#ifndef MYSTG_H
+#define MYSTG_H
 
 using namespace std;
 

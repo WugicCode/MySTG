@@ -2,7 +2,7 @@
 #include<ctime>
 #include<list>
 
-#include"STGEngine.h"
+#include"MySTG.h"
 
 using namespace std;
 
